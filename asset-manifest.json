@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-de_mesa-navbar/static/css/main.9cf4a0bd.css",
+    "main.js": "/ws101-de_mesa-navbar/static/js/main.45989a78.js",
+    "index.html": "/ws101-de_mesa-navbar/index.html",
+    "main.9cf4a0bd.css.map": "/ws101-de_mesa-navbar/static/css/main.9cf4a0bd.css.map",
+    "main.45989a78.js.map": "/ws101-de_mesa-navbar/static/js/main.45989a78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cf4a0bd.css",
+    "static/js/main.45989a78.js"
+  ]
+}
